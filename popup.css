@@ -1,0 +1,64 @@
+.container {
+    width: 200px;
+    text-align: center;
+    font-size: 12px;
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    color: #787c7e;
+}
+
+button {
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    font-size: 16px;
+    width: 100%;
+    margin: 5px;
+}
+
+#hint {
+    color: #6aaa64;
+    font-size: 24px;
+}
+
+li {
+    margin-top: 10px;
+    color: #c9b458;
+    font-size: 18px;
+    list-style-type: square;
+}
+
+p {
+    color: #6aaa64;
+    font-size: 24px;
+}
+
+#solution {
+    font-size: 18px;
+}
+
+#winner {
+    font-size: 18px;
+}
+
+#takeMeToWordle {
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover {
+    color: #6aaa64;
+    text-decoration: underline;
+}
+
+a:visited {
+    color: #6aaa64;
+    text-decoration: none;
+}
+
+h3 {
+    font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+    color: #787c7e;
+    font-size: 18px;
+    font-weight:normal;
+}
